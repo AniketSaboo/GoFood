@@ -5,9 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* font-family: 'MondayNormal' :!important;
+   */
+   font-family: "DatCub Light";
+   /* font-family: "Green Latte Demo"; */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    /* font-family: "DatCub Light"; */
+}
+#carousel{
+  max-height: 500px;
 }
